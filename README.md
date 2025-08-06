@@ -1,7 +1,7 @@
 # IBM Excel Dashboard
 
 ## 📚 About Data
-This Excel dashboard provides a comprehensive overview of IBM's human resources data, including employee demographics, employment history, education and skills, performance metrics, compensation and benefits, and retention and turnover statistics. Designed to offer actionable insights, the dashboard enables HR professionals and management to make informed decisions on workforce planning, talent management, and organizational development at IBM.
+This Excel dashboard offers a detailed analysis of IBM’s HR data, covering employee demographics, work history, education, skills, performance metrics, compensation, benefits, and retention trends. Designed for clarity and decision-making, it empowers HR teams and leadership to optimize workforce planning, talent strategy, and organizational growth at IBM.
 
 ## 💡 Highlights
 * Research & Development is the largest department with 961 employees, followed by Sales with 446 employees and Human Resources with 63 employees.
